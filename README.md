@@ -1,6 +1,6 @@
 # Google Chrome with headless mode on Docker
 
-Docker image: `grohiro/headless-chrome`:w
+Docker image: [grohiro/headless-chrome](https://cloud.docker.com/u/grohiro/repository/docker/grohiro/headless-chrome)
 
 ## Build
 
